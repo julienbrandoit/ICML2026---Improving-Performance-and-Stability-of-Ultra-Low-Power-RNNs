@@ -1,0 +1,3 @@
+This repository contains the source code for the paper "Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications" accepted *as a spotlight* at the 2026 International Conference on Machine Learning (ICML 2026).
+
+The code and raw training logs will be provided soon. This work has been the subject of a patent application under number EP26175243.0. and EP26175248.9.
